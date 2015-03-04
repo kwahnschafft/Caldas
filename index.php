@@ -320,7 +320,7 @@
 						<h1 class="footer-logo">
 						<img src="img/logo-blue.png" alt="Footer Logo Blue">
 						</h1>
-						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+						<p>Â© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
 					</div>
 					<div class="col-md-7">
 						<ul class="footer-nav">
