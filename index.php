@@ -109,11 +109,11 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div style="border: 2px solid black" class="col-md-6 nopadding features-intro-img">
-						<div style="width:119%; margin-left: -8%" class="features-slider">
+						<div style="width:110%; margin-left: -8%" class="features-slider">
 								<ul class="slides" id="featuresSlider">
 									<li>
 										<h1>Nevado Del Ruiz</h1>
-										<p>En 1985, el Nevado Del Ruiz (un volc&aacuten) hizo erupci&oacuten. El volc&aacuten enterr&oacute cuatro pueblos que estaban cerca del volc&aacuten. La ciudad que fue la m&aacutes afectada fue Armero, una ciudad que estaba a 50 millas de Bogot&aacute, la capital de Colombia. </p>
+										<p>En 1985, el <a href="img/nevado3.jpg">Nevado Del Ruiz</a> (un volc&aacuten) hizo erupci&oacuten. El volc&aacuten enterr&oacute cuatro pueblos que estaban cerca del volc&aacuten. La ciudad que fue la m&aacutes afectada fue Armero, una ciudad que estaba a 50 millas de Bogot&aacute, la capital de Colombia. </p>
 										<p>La erupci&oacuten occuri&oacute durante la noche, y por eso, la mayor&iacutea del pueblo se muri&oacute. En total, la erupci&oacuten de Nevado Del Ruiz fue la causa de las muertes de 27,000 personas.</p>
 										<p>Aqu&iacute hay una foto de la destrucci&oacuten en Armero: <a href="img/nevado.jpg">Nevado Del Ruiz</a>.</p>
 							
@@ -125,11 +125,11 @@
 						</div>
 					</div>
 					<div style="border: 2px solid black" class="col-md-6 nopadding">
-						<div style="width:120%; margin-left: -8%" class="features-slider">
+						<div style="width:110%; margin-left: -8%" class="features-slider">
 								<ul class="slides" id="featuresSlider">
 									<li>
 										<h1>Hacienda Venecia</h1>
-										<p>Una finca de caf&eacute, la Hacienda Venecia es parte del patrimonio que UNESCO hizo en 2009. Hacienda Venecia ofrece un tour en que los turistas caminan y proban el caf&eacute que la finca produce. Hacienda Venecia solo est&aacute 20 minutos lejano de Manizales. Tambi&eacuten, la finca ofrece dos lugares donde las turistas pueden dormir. Primero, hay <a href="img/hacienda.jpg">"La Casa Principal,"</a> que es una casa t&iacutepica en el Eje Cafetal de Colombia. La casa principal tiene siete cuartos y una piscina, un jard&iacuten, y una vista magn&iacutefico. Tambi&eacuten, hay un albergue donde los turistas pueden dormir y hay una piscina y m&aacutes.</p>
+										<p>Una finca de caf&eacute, la <a href="img/hacienda2.jpg">Hacienda Venecia</a> es parte del patrimonio que UNESCO hizo en 2009. Hacienda Venecia ofrece un tour en que los turistas caminan y proban el caf&eacute que la finca produce. Hacienda Venecia solo est&aacute 20 minutos lejano de Manizales. Tambi&eacuten, la finca ofrece dos lugares donde las turistas pueden dormir. Primero, hay <a href="img/hacienda.jpg">"La Casa Principal,"</a> que es una casa t&iacutepica en el Eje Cafetal de Colombia. La casa principal tiene siete cuartos y una piscina, un jard&iacuten, y una vista magn&iacutefico. Tambi&eacuten, hay un albergue donde los turistas pueden dormir y hay una piscina y m&aacutes.</p>
 										
 							
 									</li>
